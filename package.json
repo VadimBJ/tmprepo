@@ -1,9 +1,9 @@
 {
   "name": "first",
-  "homepage": "https://vadimbj.github.io/tmprepo/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://vadimbj.github.io/tmprepo/",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
